@@ -19,4 +19,5 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/1Jb8BtR.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/Xd7x5PK.gif' title='Video Walkthrough' width='3000' alt='Video Walkthrough' />
+
